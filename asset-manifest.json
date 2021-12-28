@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/comexim/static/css/main.073c9b0a.css",
-    "main.js": "/comexim/static/js/main.b984d0bb.js",
+    "main.css": "/comexim/static/css/main.93b4c8c7.css",
+    "main.js": "/comexim/static/js/main.651a6d39.js",
     "static/js/787.8cfc363d.chunk.js": "/comexim/static/js/787.8cfc363d.chunk.js",
-    "static/media/logo.svg": "/comexim/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/comexim/index.html",
-    "main.073c9b0a.css.map": "/comexim/static/css/main.073c9b0a.css.map",
-    "main.b984d0bb.js.map": "/comexim/static/js/main.b984d0bb.js.map",
+    "main.93b4c8c7.css.map": "/comexim/static/css/main.93b4c8c7.css.map",
+    "main.651a6d39.js.map": "/comexim/static/js/main.651a6d39.js.map",
     "787.8cfc363d.chunk.js.map": "/comexim/static/js/787.8cfc363d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b984d0bb.js"
+    "static/css/main.93b4c8c7.css",
+    "static/js/main.651a6d39.js"
   ]
 }
