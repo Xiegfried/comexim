@@ -1,15 +1,24 @@
 {
   "files": {
     "main.css": "/comexim/static/css/main.1aef4724.css",
-    "main.js": "/comexim/static/js/main.6c1dd214.js",
+    "main.js": "/comexim/static/js/main.cdd5a57a.js",
     "static/js/787.8cfc363d.chunk.js": "/comexim/static/js/787.8cfc363d.chunk.js",
+    "static/media/pot-brique-standard.jpg": "/comexim/static/media/pot-brique-standard.e82424739f922e8a66ff.jpg",
+    "static/media/pot-volute.png": "/comexim/static/media/pot-volute.ee752a7e69a8033cbd52.png",
+    "static/media/pot-rond-carre.jpg": "/comexim/static/media/pot-rond-carre.94befa0d55c7ff2e70ba.jpg",
+    "static/media/pot-rosier.jpg": "/comexim/static/media/pot-rosier.c305e2fe61960e7e93c3.jpg",
+    "static/media/grand-conteneur-pe.jpg": "/comexim/static/media/grand-conteneur-pe.d6789acf9b83448fc054.jpg",
+    "static/media/soucoupe-std.png": "/comexim/static/media/soucoupe-std.f8609e915eea4664f450.png",
+    "static/media/modele-bas.jpg": "/comexim/static/media/modele-bas.d160f44390dd30946a66.jpg",
+    "static/media/pot-standard.jpg": "/comexim/static/media/pot-standard.d95dc793f593a7260511.jpg",
+    "static/media/pot-carre-standard.jpg": "/comexim/static/media/pot-carre-standard.7ee01a605f6d79fa8fc1.jpg",
     "index.html": "/comexim/index.html",
     "main.1aef4724.css.map": "/comexim/static/css/main.1aef4724.css.map",
-    "main.6c1dd214.js.map": "/comexim/static/js/main.6c1dd214.js.map",
+    "main.cdd5a57a.js.map": "/comexim/static/js/main.cdd5a57a.js.map",
     "787.8cfc363d.chunk.js.map": "/comexim/static/js/787.8cfc363d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1aef4724.css",
-    "static/js/main.6c1dd214.js"
+    "static/js/main.cdd5a57a.js"
   ]
 }
