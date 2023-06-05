@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/comexim/static/css/main.37d4d94f.css",
-    "main.js": "/comexim/static/js/main.9a4acad2.js",
+    "main.js": "/comexim/static/js/main.0d335106.js",
     "static/js/787.8cfc363d.chunk.js": "/comexim/static/js/787.8cfc363d.chunk.js",
     "static/media/coupe-millesia.jpg": "/comexim/static/media/coupe-millesia.8cc96f1c679a26796120.jpg",
     "static/media/comexim2.png": "/comexim/static/media/comexim2.6942cfdebe5987611bdf.png",
@@ -23,11 +23,11 @@
     "static/media/pot-carre-standard.jpg": "/comexim/static/media/pot-carre-standard.7ee01a605f6d79fa8fc1.jpg",
     "index.html": "/comexim/index.html",
     "main.37d4d94f.css.map": "/comexim/static/css/main.37d4d94f.css.map",
-    "main.9a4acad2.js.map": "/comexim/static/js/main.9a4acad2.js.map",
+    "main.0d335106.js.map": "/comexim/static/js/main.0d335106.js.map",
     "787.8cfc363d.chunk.js.map": "/comexim/static/js/787.8cfc363d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37d4d94f.css",
-    "static/js/main.9a4acad2.js"
+    "static/js/main.0d335106.js"
   ]
 }
